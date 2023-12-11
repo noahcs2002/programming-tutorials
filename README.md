@@ -3,7 +3,7 @@ This repository is a side-by-side repository to go along with my development tut
 
 ## Use
 Each unit will have a folder. For example, `1-Programming-Basics` is all the code relevant to the first unit, covering the basics of programming. There should be 5 total folders and this file in the repository. 
-If you are looking for a quick glance at a solution, feel free to just poke around! You can go through this just like a normal file explorer, click around and see some files. However, if you have Git installed on your machine (which I cover in module 4) then you can *clone* this repository and see all the code, and run it for yourself. ALternatively, you can **download a zip folder version of this repo for a more up-close look**.
+If you are looking for a quick glance at a solution, feel free to just poke around! You can go through this just like a normal file explorer, click around and see some files. However, if you have Git installed on your machine (which I cover in module 4) then you can *clone* this repository and see all the code, and run it for yourself. Alternatively, you can **download a zip folder version of this repo for a more up-close look**.
 
 ## Content Outline
 1. Programming Basics
@@ -32,6 +32,8 @@ If you are looking for a quick glance at a solution, feel free to just poke arou
 - Encapsulation
 - Inheritance
 - Generic Types and Capture Types
+- Lambda Expressions
+- Anonymous Classes
 - Object Oriented Programming - Round 2
 - Programming to the interface
 - Design Pattern Overview
@@ -70,6 +72,7 @@ If you are looking for a quick glance at a solution, feel free to just poke arou
 - JIRA overview
 - GitHub in depths (branches, merging, PRs, issues etc)
 - Agile methodology
+- Unit Testing
 
 ### Interview` Problems
 - Implementation to various common interview problems
